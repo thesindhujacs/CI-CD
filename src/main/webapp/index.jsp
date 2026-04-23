@@ -4,6 +4,6 @@
 </head>
 <body>
 <h1>Welcome to CI/CD Pipeline Demo</h1>
-<a href="hello">Click Here</a>
+<a href="/app-1/hello">Click Here</a>
 </body>
 </html>
